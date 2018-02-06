@@ -1,0 +1,9 @@
+{
+    "Description": "Global configuration file for O365 Graph API",
+    "AppID": "",
+    "TenantDomain": "",
+    "LoginURL" : "https://login.microsoftonline.com",
+    "ResourceAPI" : "https://graph.microsoft.com",
+    "redirectURI" : "urn:ietf:wg:oauth:2.0:oob" 
+}
+
